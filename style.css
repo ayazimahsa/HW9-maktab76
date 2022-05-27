@@ -1,0 +1,97 @@
+.header {
+    background-color: #F9F9F9;
+    height: 600px
+}
+
+
+.headerColor {
+    font-size: 60px;
+}
+
+span.hColor {
+    color: #5649CF;
+}
+
+p {
+    font-size: 16px;
+    color: #565656;
+}
+
+.logoBrands {
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    margin-right: 10px;
+}
+
+.paragraph {
+    font-size: 23px;
+}
+
+.hs {
+    font-size: 40px;
+}
+
+.cardNumber {
+    margin-top: 110px;
+}
+
+.numbers {
+    background-color: #5649CF;
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.facebook {
+    transform: translate(40px, -40px);
+}
+
+.startNow {
+    border: #5649CF solid;
+    width: 100px;
+}
+
+.rounded-circle {
+    width: 160px;
+    height: 160px;
+    background-color: #5649CF;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.Positive{
+    font-size: 25px;
+}
+
+.Tasks{
+    transform: translate(70px, -10px);
+}
+
+.positiveCircle {
+    background-color: #7EE3A1;
+    text-align: center;
+    color: #3CB265;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+}
+
+.purpple-cadr {
+    background-color: #6014c3;
+    height: 300px;
+}
+
+.footerIcon {
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+}
